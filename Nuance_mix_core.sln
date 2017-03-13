@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuance_mix_core", "Nuance_mix_core\Nuance_mix_core.csproj", "{8F3E7093-A5ED-48D6-AE1D-56EFCEEC47A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C360F612-F6C6-4BA3-AE60-21FE181B469A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8F3E7093-A5ED-48D6-AE1D-56EFCEEC47A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3E7093-A5ED-48D6-AE1D-56EFCEEC47A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3E7093-A5ED-48D6-AE1D-56EFCEEC47A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C360F612-F6C6-4BA3-AE60-21FE181B469A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C360F612-F6C6-4BA3-AE60-21FE181B469A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C360F612-F6C6-4BA3-AE60-21FE181B469A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C360F612-F6C6-4BA3-AE60-21FE181B469A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
